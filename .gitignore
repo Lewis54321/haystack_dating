@@ -1,0 +1,9 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+.env
+
+__pycache__/
